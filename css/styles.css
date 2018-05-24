@@ -1,14 +1,11 @@
-#right_tabs {
-  align: right;
+.sidebar {
+  float:left;
+  width:170px;
+  background-color:#E4E5E2;
 }
-#welcome {
-  font-size:162%;
-  padding:.1em;
+.wiki-img{
+  width:100%;
 }
-#under_welcome {
-  font-size:95%;
-}
-
 body {
   font-family: 'Montserrat', sans-serif;
 }
