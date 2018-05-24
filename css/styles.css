@@ -1,6 +1,8 @@
 .sidebar {
-  float:left;
-  width:170px;
+  position:absolute;
+  width:10em;
+  top: 0;
+  left:0;
   background-color:#E4E5E2;
 }
 .wiki-img{
@@ -8,4 +10,28 @@
 }
 body {
   font-family: 'Montserrat', sans-serif;
+}
+.wiki-intro {
+  background-color:#E4E5E2;
+}
+.main-content{
+  margin-left: 10em;
+}
+.content1 {
+  display: block;
+}
+
+.col1 {
+  display:block;
+  background-color: green;
+}
+.col2 {
+  display:block;
+  background-color:blue;
+}
+.content3 {
+  background-color:purple;
+}
+.hurricane {
+  width:100%;
 }
